@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Brandon Rodriguez Fernandez
 
-I'm glad you are here. I plan to talk about ...
+Openshift Engineer PaaS - NTT Data/Citi Bank 
+
+In charge of support application hosted in Openshift and the infrastructure.
